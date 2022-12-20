@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**milenadataproject/milenadataproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Link para os Datasets Utilizados: https://health.google.com/covid-19/open-data/raw-data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repositório da Aplicação: https://github.com/moderndatastackpipeline/modern-data-stack
+
+Repositório do Airbyte: https://github.com/moderndatastackpipeline/airbyte
+
+Repositório do Dbt: https://github.com/moderndatastackpipeline/dbt-model
+
+Ambiente de Desenvolvimento https://www.gitpod.io/
+
+Documentação do Airbyte https://airbytehq.github.io/
+
+Documentação do Airflow https://airflow.apache.org/docs/
+
+Documentação do Dbt https://docs.getdbt.com/
+
+Documentação do Snowflake https://docs.snowflake.com/en/
+
+Documentação do Metabase https://www.metabase.com/docs/latest/
